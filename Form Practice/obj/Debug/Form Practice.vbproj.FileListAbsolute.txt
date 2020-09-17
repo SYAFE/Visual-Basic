@@ -1,0 +1,12 @@
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\bin\Debug\Form Practice.exe.config
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\bin\Debug\Form Practice.exe
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\bin\Debug\Form Practice.pdb
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\bin\Debug\Form Practice.xml
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form Practice.vbprojAssemblyReference.cache
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form_Practice.Form1.resources
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form_Practice.Resources.resources
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form Practice.vbproj.GenerateResource.cache
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form Practice.vbproj.CoreCompileInputs.cache
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form Practice.exe
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form Practice.xml
+C:\Users\usn00439\Documents\Visual Studio 2019\Visual-Basic\Form Practice\obj\Debug\Form Practice.pdb
